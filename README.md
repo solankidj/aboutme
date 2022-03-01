@@ -10,12 +10,12 @@ With a core philosophy to be visible within the business with a passion for buil
 BSc (Hons) Computer Science | ISC2 CISSP Certified | ISO27001 Lead Implementer Certified | ISO27001 Lead Auditor | CISMP Practitioner Certified | GCHQ - Social Engineering Specialist Certified
 
 ## EXPERIENCE
-### SENIOR THIRD PARTY SECURITY CONSULTANT FOR HSBC, SINCE JUNE 2021
+### SENIOR THIRD PARTY SECURITY CONSULTANT FOR HSBC, FROM JUNE 2021 TO CURRENT
 Responsible for operating key technologies involved in the bank’s initiative to identify, risk assess, remediate and report on its public facing digital footprint with particular focus on its third party interaction and interconnections.
 Taking lead on Risk IQ’s Passive Total for threat intel and analysis related to third parties and Digital Footprint for its discovery of public facing digital footprint; involving technical analysis of IP Addresses, Hosts, Domains, URLs, ASNs, SSL Certs, WHO IS Domains. The objective, providing meaningful data to allow internal cyber teams to effectively assess vulnerabilities across the external facing environment. 
 Proposing meaningful KRIs and KPIs for all third party related risks, threats, vulnerabilities and working with stakeholders to automate the data extraction and reporting that allow the bank to quickly and efficiently assess and manage their workload. 
 
-**SENIOR THIRD PARTY SECURITY RISK MANAGER FOR 3VRM, SINCE DECEMBER 2017**
+**SENIOR THIRD PARTY SECURITY RISK MANAGER FOR 3VRM, FROM DECEMBER 2017 TO JUNE 2021**
 
 SENIOR SECURITY MANAGER – THIRD PARTY RISK ASSURANCE, BUPA GLOBAL
 Defined the third party security risk policies and procedures, collaborated with stakeholders and communicated key terms to key business owners. 
