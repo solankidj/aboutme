@@ -1,18 +1,22 @@
-DIPESH
+# DIPESH'S CV
 
-**EXPERTISE**		A proven strategic leader with hands-on style approach, building frameworks, translating cyber risks into translatable business strategies and secure environments with a maximum return on security investment. 
+## EXPERTISE		
+A proven strategic leader with hands-on style approach, building frameworks, translating cyber risks into translatable business strategies and secure environments with a maximum return on security investment. 
 Strong cyber security skills, proud to have built up an excellent track record delivering strategic and tactical experience and improving security culture in organisations.
 At the heart of past and present success there is absolute belief in improving good stakeholder management to provide clear security direction with focus on employee engagement, effective and efficient processes and embedding a winning security culture. 
 With a core philosophy to be visible within the business with a passion for building trust by ensuring honesty and openness regarding the strategy and performance of information security.
 
-**SKILLS**		BSc (Hons) Computer Science | ISC2 CISSP Certified | ISO27001 Lead Implementer Certified | ISO27001 Lead Auditor | CISMP Practitioner Certified | GCHQ - Social Engineering Specialist Certified
+## SKILLS
+BSc (Hons) Computer Science | ISC2 CISSP Certified | ISO27001 Lead Implementer Certified | ISO27001 Lead Auditor | CISMP Practitioner Certified | GCHQ - Social Engineering Specialist Certified
 
-**EXPERIENCE** SENIOR THIRD PARTY SECURITY CONSULTANT FOR HSBC, SINCE JUNE 2021
+## EXPERIENCE
+### SENIOR THIRD PARTY SECURITY CONSULTANT FOR HSBC, SINCE JUNE 2021
 Responsible for operating key technologies involved in the bank’s initiative to identify, risk assess, remediate and report on its public facing digital footprint with particular focus on its third party interaction and interconnections.
 Taking lead on Risk IQ’s Passive Total for threat intel and analysis related to third parties and Digital Footprint for its discovery of public facing digital footprint; involving technical analysis of IP Addresses, Hosts, Domains, URLs, ASNs, SSL Certs, WHO IS Domains. The objective, providing meaningful data to allow internal cyber teams to effectively assess vulnerabilities across the external facing environment. 
 Proposing meaningful KRIs and KPIs for all third party related risks, threats, vulnerabilities and working with stakeholders to automate the data extraction and reporting that allow the bank to quickly and efficiently assess and manage their workload. 
 
-SENIOR THIRD PARTY SECURITY RISK MANAGER FOR 3VRM, SINCE DECEMBER 2017
+**SENIOR THIRD PARTY SECURITY RISK MANAGER FOR 3VRM, SINCE DECEMBER 2017**
+
 SENIOR SECURITY MANAGER – THIRD PARTY RISK ASSURANCE, BUPA GLOBAL
 Defined the third party security risk policies and procedures, collaborated with stakeholders and communicated key terms to key business owners. 
 Defined the audit methodology for performing supplier risk and control assessments based on ISO27001, NIST, penetration rest results, BitSight, Security ScoreCard data. Created the technical controls library (144 low level audit controls) with Design Effectiveness Adequacy (DEA) and Operating Effectiveness Testing (OET) to allow assessors to efficiently perform supplier risk assessments.
@@ -76,7 +80,7 @@ Developed consistent methodology, tools, processes & standardised templates for 
 Defined the overall methodology for assessing, managing and reporting third party risk. 
 Produced the procedure documents and trained stakeholders in the methodology and procedures to allow effective and efficient operation of third party risk in line with the newly revised policy and procedures.
 
-SENIOR BUSINESS SECURITY MANAGER, JOHN LEWIS & WAITROSE PARTNERSHIP [CONTRACT] - JANUARY 2016 TO DECEMBER 2017
+**SENIOR BUSINESS SECURITY MANAGER, JOHN LEWIS & WAITROSE PARTNERSHIP [CONTRACT] - JANUARY 2016 TO DECEMBER 2017**
 Reporting to the CISO responsible for advising and guiding departmental security and risk initiatives across the Partnership. 
 Chaired regular departmental risk forums representing both the DPISO/CISO function and department executives highlighting the risk treatment. 
 Produced and presented on leadership reports reflecting departmental GDPR risk assessments, COBIT maturity level assessments for both DPISO/CISO and CTO. 
@@ -84,12 +88,12 @@ Consulted and evaluated Partnership wide information security policies and stand
 Presented and championed at regular security awareness and training events. 
 Designed and developed the Privacy Impact Assessments and Security Impact Assessments for embedding security control requirements in business and technology solutions.
 
-LEAD CYBER SECURITY CONSULTANT, BAE SYSTEMS APPLIED INTELLIGENCE [CONTRACT] WORKING WITH CLIENTS FIDELITY INSURANCE, NPOWER, E.ON - SEPTEMBER 2014 TO DECEMBER 2015
+**LEAD CYBER SECURITY CONSULTANT, BAE SYSTEMS APPLIED INTELLIGENCE [CONTRACT] WORKING WITH CLIENTS FIDELITY INSURANCE, NPOWER, E.ON - SEPTEMBER 2014 TO DECEMBER 2015**
 Led and delivered complex cyber security projects that involved the implementation, maintain, review and improving information security frameworks.
 Worked with senior business and risk owners to report and manage high level risks. Responsibilities included defining client Information Security RACI, establishing project security gate-checks, shaping risk management, vulnerability management, data privacy and third party security processes all under strict deadlines and medium sized budgets. 
 Designed a risk management framework, supporting the development of policies, delivering training and awareness programs all under the endorsement of senior management to ensure successful implementation into ‘Business As Usual’ environments.
 
-INFORMATION SECURITY RISK CONSULTANT, VIRGIN MEDIA [PERMANENT] — JANUARY 2007 TO SEPTEMBER 2014
+**INFORMATION SECURITY RISK CONSULTANT, VIRGIN MEDIA [PERMANENT] — JANUARY 2007 TO SEPTEMBER 2014**
 SME on Risk forums, representing cyber risk illustration and performance for departments, assets, applications.
 Planned and performed cyber security risk assessments with business and technology owners. Offered advice and guidance with risk remediation plans.
 Using ISO27001 framework, conducted technical audits of infrastructure projects including workstation and server platforms, database, network, internet facing applications technologies.
