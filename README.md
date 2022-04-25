@@ -19,9 +19,9 @@ Proposing meaningful KRIs and KPIs for all third party related risks, threats, v
 
 SENIOR SECURITY MANAGER – THIRD PARTY RISK ASSURANCE, BUPA GLOBAL
 Defined the third party security risk policies and procedures, collaborated with stakeholders and communicated key terms to key business owners. 
-Defined the audit methodology for performing supplier risk and control assessments based on ISO27001, NIST, penetration rest results, BitSight, Security ScoreCard data. Created the technical controls library (144 low level audit controls) with Design Effectiveness Adequacy (DEA) and Operating Effectiveness Testing (OET) to allow assessors to efficiently perform supplier risk assessments.
+Defined the audit methodology for performing supplier risk and control assessments based on ISO27001, NIST, penetration rest results, BitSight, Risk IQ, Security ScoreCard data. Created the technical controls library (144 low level audit controls) with Design Effectiveness Adequacy (DEA) and Operating Effectiveness Testing (OET) to allow assessors to efficiently perform supplier risk assessments.
 Perform supplier risk assessments with critical and important level suppliers. Reported risks and issues as well as recommended suitable remediation plans with suppliers.
-Led digital footprint initiative to discover the organisation’s public facing IP addresses using recommended technologies and tools like BitSight. Consider automation opportunities to drive efficiencies in digital footprint operations. Define proposed process for public facing vulnerability management (identify, assess, remediate, report).
+Led digital footprint initiative to discover the organisation’s public facing IP addresses using recommended technologies and tools like BitSight and Risk IQ. Consider automation opportunities to drive efficiencies in digital footprint operations. Define proposed process for public facing vulnerability management (identify, assess, remediate, report).
 
 SENIOR SECURITY ASSURANCE MANAGER, OPEN BANKING
 Define greenfield third party security framework by defining policies, controls and training materials. 
@@ -53,20 +53,6 @@ Developing a threat intelligence reporting process that includes highlighting th
 Led a number of highly critical RFPs (£1-15MM) for new tenders and performing regular oversight monitoring assessments for existing s.
 Leading the oversight of vulnerability assessments; assessing criticality and exploitation, planning priority-based remediation with stakeholders, reporting to the board on progress.
 
-SENIOR SECURITY ASSURANCE MANAGER, ONEADVANCED
-Represented a well-known Managed Security Service Provider (MSSP), reporting to the CISO, with responsibility for providing security assurance on major customer accounts in Financial Services sector.
-Leading SOC2 Compliance and re-certification projects for clients by implementing audit programme, controls library and defining security strategy. 
-Led the re-scoping and certification of ISO27001 certified offerings to customers for its in-house and cloud-based environments. 
-Developing the cyber incident process with the Head of Sec Ops, that becomes the central incident management framework for the organisation.
-Reported key cyber risks including remediation progress affecting major customers through regular customer forums led by C-level executives.
-Close working collaboration with the Head of Security Operations to provide an improved security monitoring, detection, and response of security incidents. 
-Operated the risk management process for major customer accounts by proactively identifying, assessing, document and regularly reviewing operational cyber security risks.
-Designed and tested controls while building a NIST and ISO based controls library for efficient risk and controls analysis. 
-Improved tense relations with major account customers to assure and validate efficient and improving security controls and clear risk remediation progress. 
-Managed monthly vulnerability scans and patching cadence to customers 
-Created and championed service improvement plans to improve the maturity of security controls and cyber risk. 
-Encouraged and supported increased adoption of standardized reporting mechanics to customers.
-
 SENIOR INFORMATION SECURITY MANAGER, METRO BANK
 Reported to the Director of Procurement and Supply Chain Services with a dotted line to the Director of Cyber Security delivered an improved supply chain security risk framework.
 Consulted on key projects with Architecture to advise and approve solutions with security and privacy in mind by identifying security control requirements and reporting data security risks to senior stakeholders including vendors for business ownership.
@@ -75,12 +61,8 @@ Produced and integrated privacy security gate-checks into entire contractual lif
 Worked with Security Architecture to assess risk of new services/products and advised on improved methods for delivering security in software development lifecycle. 
 Presented cyber risk and impact exposure to senior stakeholders at Metro Bank and level CISO and CIO.
 Key advisory role improving the banking industries Financial Qualification Standard by designing an ISO27001 and NIST aligned controls for assessing compliance.
-SENIOR INFORMATION SECURITY MANAGER, HITACHI CAPITAL
-Developed consistent methodology, tools, processes & standardised templates for the third party risk function.
-Defined the overall methodology for assessing, managing and reporting third party risk. 
-Produced the procedure documents and trained stakeholders in the methodology and procedures to allow effective and efficient operation of third party risk in line with the newly revised policy and procedures.
 
-**SENIOR BUSINESS SECURITY MANAGER, JOHN LEWIS & WAITROSE PARTNERSHIP [CONTRACT] - JANUARY 2016 TO DECEMBER 2017**
+**SENIOR BUSINESS SECURITY MANAGER, JOHN LEWIS & WAITROSE PARTNERSHIP - JANUARY 2016 TO DECEMBER 2017**
 Reporting to the CISO responsible for advising and guiding departmental security and risk initiatives across the Partnership. 
 Chaired regular departmental risk forums representing both the DPISO/CISO function and department executives highlighting the risk treatment. 
 Produced and presented on leadership reports reflecting departmental GDPR risk assessments, COBIT maturity level assessments for both DPISO/CISO and CTO. 
@@ -88,12 +70,12 @@ Consulted and evaluated Partnership wide information security policies and stand
 Presented and championed at regular security awareness and training events. 
 Designed and developed the Privacy Impact Assessments and Security Impact Assessments for embedding security control requirements in business and technology solutions.
 
-**LEAD CYBER SECURITY CONSULTANT, BAE SYSTEMS APPLIED INTELLIGENCE [CONTRACT] WORKING WITH CLIENTS FIDELITY INSURANCE, NPOWER, E.ON - SEPTEMBER 2014 TO DECEMBER 2015**
+**LEAD CYBER SECURITY CONSULTANT, BAE SYSTEMS APPLIED INTELLIGENCE - WORKING WITH CLIENTS FIDELITY INSURANCE, NPOWER, E.ON - SEPTEMBER 2014 TO DECEMBER 2015**
 Led and delivered complex cyber security projects that involved the implementation, maintain, review and improving information security frameworks.
 Worked with senior business and risk owners to report and manage high level risks. Responsibilities included defining client Information Security RACI, establishing project security gate-checks, shaping risk management, vulnerability management, data privacy and third party security processes all under strict deadlines and medium sized budgets. 
 Designed a risk management framework, supporting the development of policies, delivering training and awareness programs all under the endorsement of senior management to ensure successful implementation into ‘Business As Usual’ environments.
 
-**INFORMATION SECURITY RISK CONSULTANT, VIRGIN MEDIA [PERMANENT] — JANUARY 2007 TO SEPTEMBER 2014**
+**INFORMATION SECURITY RISK CONSULTANT, VIRGIN MEDIA — JANUARY 2007 TO SEPTEMBER 2014**
 SME on Risk forums, representing cyber risk illustration and performance for departments, assets, applications.
 Planned and performed cyber security risk assessments with business and technology owners. Offered advice and guidance with risk remediation plans.
 Using ISO27001 framework, conducted technical audits of infrastructure projects including workstation and server platforms, database, network, internet facing applications technologies.
