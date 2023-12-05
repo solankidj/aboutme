@@ -11,11 +11,21 @@ BSc (Hons) Computer Science | ISC2 CISSP Certified | ISO27001 Lead Implementer C
 
 ## EXPERIENCE
 ### SENIOR CYBER MANAGER FOR HSBC, FROM JUNE 2021 TO CURRENT
-Responsible for operating key technologies involved in the bank’s initiative to identify, risk assess, remediate and report on its public facing digital footprint with particular focus on its third party interaction and interconnections.
-Taking lead on Risk IQ’s Passive Total for threat intel and analysis related to third parties and Digital Footprint for its discovery of public facing digital footprint; involving technical analysis of IP Addresses, Hosts, Domains, URLs, ASNs, SSL Certs, WHO IS Domains. The objective, providing meaningful data to allow internal cyber teams to effectively assess vulnerabilities across the external facing environment. 
-Defining and executing the third party security risk and controls roadmap for approx 2500 supplier base. Attending governance meetings reporting on third party risk and controls assessment performance with key risks and issues.
-Engaging with stakeholders across the business to ensure third party risks are considered and understood at the outset when commencing new programmes or projects.
-Proposing meaningful KRIs and KPIs for all third party related risks, threats, vulnerabilities and working with stakeholders to automate the data extraction and reporting that allow the bank to quickly and efficiently assess and manage their workload. 
+Responsible for managing two Cyber GRC programme workstreams; uplifting of cyber security governance framework, resulting in improved decision-making, and integrating cyber threat-led and risk-based data sources into vendor cyber assessments resulting in better risk management, reducing the likelihood and impact of security incidents in the supply-chain. 
+
+Lead and deliver a new centralised approach to operational and control metrics and reporting, from board-level through to internal customers, replacing previous fragmented and inconsistent outcomes. Built circa 151 KCIs in only 12 months, enabling quantitative assessment and transparency.
+
+Built a global capacity for responding to Hong-Kong regulatory exams/enquiries, supporting local China and Hong-Kong markets across the bank. Introduced consistent and swifter regulator responses on cybersecurity controls and capabilities, replacing previously fragmented and inefficient approach. Acted as key liaison with key regulators for cyber matters on behalf of the bank. 
+
+Lead the effective operational delivery of the bank’s preferred vendor cyber-management tools, Microsoft Risk IQ, BitSight and Surecloud by integrating with vendor risk management practices. 
+
+Reduction of vendor security assessments backlog by working with key stakeholders to operationalize a new service function, to perform flexible and scalable vendor security assessments. 
+
+Led the introduction of improved cyber legal schedule defining the commercial framework required for cyber risk mitigation, aligned with HSBC control requirements. 
+
+Formed a Working Group with multiple senior executives across Legal, Cyber, Business, Technology to present performance of vendor cyber risk assessments landscape and 2-year schedule. Hosted the Working Group to present short term plans to prioritise vendor assessments based on risk posed to the bank. Long term led commitment to push exit of existing supplier relationships that have failed to meet expectations. 
+
+Created a new triage process to identify and approve lower risk suppliers for speedy onboarding – for Asia as pilot, with wider usage in US upon results.
 
 **SENIOR THIRD PARTY SECURITY RISK MANAGER FOR 3VRM, FROM DECEMBER 2017 TO JUNE 2021**
 
